@@ -18,6 +18,6 @@ Run the R terminal from the command line, then enter the following.
 
 Confirm the successful installation by then running
 
-`library(emidst)`
+`library(emdist)`
 
 `help( emd2d )`
